@@ -3,7 +3,9 @@ package org.bank;
 public class AxisBank extends BankInfo {
 	
 	
-
+	public void m1() {
+System.out.println("hi--------");
+}
 	public void deposit()
 	
 	{
